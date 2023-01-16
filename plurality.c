@@ -1,3 +1,5 @@
+// A voting system based off the plurality voting electoral system
+
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
