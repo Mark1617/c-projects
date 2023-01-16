@@ -1,3 +1,5 @@
+// Program to implement a substitution cypher, based on a given key system.
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
