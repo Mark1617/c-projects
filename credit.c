@@ -1,3 +1,5 @@
+// Program to check whether a card number is a specific type, and whether it is valid.
+
 #include <stdio.h>
 #include <cs50.h>
 
