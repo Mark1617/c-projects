@@ -1,3 +1,5 @@
+// Program to create the pyramid from mario with a user defined height
+
 #include <cs50.h>
 #include <stdio.h>
 
