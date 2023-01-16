@@ -1,3 +1,5 @@
+// A voting program using the Tideman or "Ranked Pairs" electoral system.
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
