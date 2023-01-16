@@ -1,3 +1,5 @@
+// Takes two words as inputs and calculates the score of each words based on the scrabble points system, then prints a winner message.
+
 #include <ctype.h>
 #include <cs50.h>
 #include <stdio.h>
