@@ -1,3 +1,5 @@
+// Program to approximate the grade level of some text.
+
 #include <cs50.h>
 #include <stdio.h>
 #include <math.h>
